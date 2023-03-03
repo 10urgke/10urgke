@@ -7,3 +7,5 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cumali-onur-g%C3%B6k%C3%A7e-791b5b21b)
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@onurgokce) 
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=10urgke&show_icons=true&theme=radical)
