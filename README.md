@@ -1,4 +1,4 @@
-🧑‍💻 I have been providing education in software development and computer hardware for the past 4 years while also working on my own projects. 
+🧑‍💻 I have been providing education in software development and computer hardware for the past 5 years while also working on my own projects. 
 
 👀 Although my formal work experience is limited, I have participated in competitions with artificial intelligence robots and projects focused on innovation in healthcare and commerce. 
 
