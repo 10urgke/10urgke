@@ -8,4 +8,4 @@
 
 
 
-<img src="https://i.pinimg.com/originals/db/92/8b/db928b3c376bc306b3f414cae4b216ab.gif" width="720" height = "1080">
+<img src="https://i.pinimg.com/originals/db/92/8b/db928b3c376bc306b3f414cae4b216ab.gif" width="1080" height = "720">
