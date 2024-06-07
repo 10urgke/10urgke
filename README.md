@@ -15,7 +15,9 @@
 
 
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=10urgke"><img src="https://github-profile-trophy.vercel.app/?username=10urgke" alt="10urgke" /></a> </p>
+
+
+
 
 
 
