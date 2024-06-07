@@ -13,7 +13,9 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cumali-onur-g%C3%B6k%C3%A7e-791b5b21b) [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@onurgokce)                                                                                                                    
 
 
-https://github-profile-trophy.vercel.app/?username=10urgke
+
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=10urgke"><img src="https://github-profile-trophy.vercel.app/?username=10urgke" alt="10urgke" /></a> </p>
 
 
 
